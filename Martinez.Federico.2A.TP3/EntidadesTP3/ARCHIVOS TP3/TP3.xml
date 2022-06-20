@@ -80,4 +80,12 @@
     <Localidad>Temperley</Localidad>
     <Dni>259</Dni>
   </Cliente>
+  <Cliente>
+    <Nombre>*/-</Nombre>
+    <Apellido>*-/</Apellido>
+    <Plan>Alto</Plan>
+    <CantFamilia>0</CantFamilia>
+    <Localidad>Avellaneda</Localidad>
+    <Dni>1</Dni>
+  </Cliente>
 </ArrayOfCliente>
